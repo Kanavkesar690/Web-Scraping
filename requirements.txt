@@ -1,0 +1,9 @@
+requests
+bs4
+reportlab
+azure-storage-blob
+azure-identity
+logging
+azure-functions
+python-dotenv
+fpdf
